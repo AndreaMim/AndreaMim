@@ -10,7 +10,7 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AndreaMim.AndreaMim&color=00cf00" alt=""/>
   
 
-# 👋 ¡Hola! Soy Andrea Paulina Pardo Arredondo
+# 👋 ¡Hola! Soy Andrea Pardo
 
 🌟 **QA Tester | Ingeniera Bioquímica | Aprendiendo y Creciendo en el Mundo de la Tecnología**
 
@@ -18,7 +18,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-- 🎓 Ingeniera Bioquímica con maestría en Ciencias.
+- 🎓 Ingeniera Bioquímica con Maestría en Ciencias.
 - 🛠️ Experiencia en pruebas manuales, gestión de defectos y aseguramiento de calidad.
 - 🌱 Actualmente, estoy profundizando mis habilidades como QA Engineer a través de proyectos y formación continua.
 - 📚 Habilidades técnicas: JIRA, Postman, Android Studio, validación de API.
