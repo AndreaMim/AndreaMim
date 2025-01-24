@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img decoding="async" 
-src="(https://github.com/user-attachments/assets/c87b68d3-5034-4d90-8f2c-a334e6f39bb8)" 
+src="(https://github.com/AndreaMim/AndreaMim/blob/main/assets/Banner%20Github.png)" 
 width="800"/>
 </div>
 
