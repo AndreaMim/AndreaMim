@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" 
-src="(https://github.com/AndreaMim/AndreaMim/blob/main/assets/Banner%20Github.png)" 
-width="800"/>
+       src="https://github.com/AndreaMim/AndreaMim/blob/main/assets/Banner%20Github.png" 
+       width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulina-pardo)
